@@ -108,11 +108,11 @@ It also demonstrates how Python libraries can be used to convert raw datasets in
 
 ## 👨‍💻 Author
 
-**Rishav Dhiman**
+**Sujal Dhiman**
 
 B.Tech Computer Science Engineering
 
-GitHub: [Your GitHub Profile](https://github.com/)
+GitHub: [Your GitHub Profile](https://github.com/Dhimansujal69/Netflix-Dashboard/)
 
 ---
 
